@@ -1,1 +1,43 @@
-
+#EXTM3U 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name=凤凰中文 group-title=卫视频道,凤凰中文
+http://116.163.25.21/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name=凤凰资讯 group-title=卫视频道,凤凰资讯
+http://116.163.25.21/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name=春晚 group-title=春晚,1984年
+http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name=CCTV1 group-title=央视频道,CCTV1
+https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/7b52fa870e-0-0-c6a3fb8f3cf40078d48c0b3b18e5f76e/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name=CCTV6 group-title=央视频道,CCTV6
+https://iptv.luas.edu.cn/liverespath/44e1df14b5bbd785c9588ad7c721dd565607c700/f5df806827-0-0-ad19c7a1ab20769a028d020c14a9ab14/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name=CCTV13 group-title=央视频道,CCTV13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/w%3D580/sign=affdf0e626899e51788e3a1c72a7d990/3e1118178a82b901d097e0282e8da9773812efe5.jpg?tbpicau=2023-09-05-05_42f9c8efe2e13a2910b2d7d4aa7a40c4" tvg-name=CCTV8K group-title=央视频道,CCTV8K
+http://lukache.cn/ysp/8khk.php
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/78/2242788982/u2242788982KKxPFSF.jpg" group-title="综合", 武林外传 超清
+https://www.goodiptv.club/yy/21092633
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/77/1755778855/u1755778855vEcHMAx.jpg" group-title="综合", 【鹿鼎记】金庸经典
+https://www.goodiptv.club/yy/28265277
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/41/2223417380/u2223417380U3EnBY7.png" group-title="综合", 动漫
+https://www.goodiptv.club/yy/25055036
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/50/2385505239/u2385505239dIYC_4U.jpg" group-title="综合", 【成龙经典】动作
+https://www.goodiptv.club/yy/34460526
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 寻秦记-穿越剧经典
+https://www.goodiptv.club/yy/1382749900
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 爆笑小品
+https://www.goodiptv.club/yy/1354931503
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 父母爱情
+https://www.goodiptv.club/yy/1354926650
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 九品芝麻官包龙星
+https://www.goodiptv.club/yy/1354930968
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 冯巩 牛群
+https://www.goodiptv.club/yy/1382851476
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 怀旧小品
+https://www.goodiptv.club/yy/1382736821
+#EXTINF:-1 tvg-logo=江苏经典流行音乐广播.png tvg-name=江苏经典流行音乐广播 group-title=音乐频道,radio=true,江苏经典流行音乐广播
+http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
+#EXTINF:-1 tvg-logo=HitFM88.7.png tvg-name=HitFM88.7 group-title=音乐频道,radio=true,HitFM88.7
+https://sk.cri.cn/887.m3u8
+#EXTINF:-1 tvg-logo=HitFM88.7.png tvg-name=CNR音乐之声 group-title=音乐频道,radio=true,CNR音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 tvg-logo=HitFM88.7.png tvg-name=芒种 group-title=音乐频道,radio=true,芒种
+https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
