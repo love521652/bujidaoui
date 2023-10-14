@@ -11,6 +11,13 @@ https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/7b
 https://iptv.luas.edu.cn/liverespath/44e1df14b5bbd785c9588ad7c721dd565607c700/f5df806827-0-0-ad19c7a1ab20769a028d020c14a9ab14/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name=CCTV13 group-title=央视频道,CCTV13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4K.png" tvg-name=CCTV4k group-title=央视频道,CCTV4k
+http://159.75.85.63:5679/cctv4k.php
+http://[2409:8087:3428:20:500::1015]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/w%3D580/sign=affdf0e626899e51788e3a1c72a7d990/3e1118178a82b901d097e0282e8da9773812efe5.jpg?tbpicau=2023-09-05-05_42f9c8efe2e13a2910b2d7d4aa7a40c4" tvg-name=CCTV8K group-title=央视频道,CCTV8K
 http://lukache.cn/ysp/8khk.php
 #EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/78/2242788982/u2242788982KKxPFSF.jpg" group-title="综合", 武林外传 超清
